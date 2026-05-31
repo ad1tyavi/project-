@@ -9,3 +9,7 @@ console.log("footer");
  
 console.log("latest update");
 
+// i am fixing some new bug
+console.log("fix the latest bug");
+
+
